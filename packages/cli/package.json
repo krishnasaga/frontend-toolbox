@@ -1,6 +1,6 @@
 {
     "name": "@luton/cli",
-    "version": "0.0.2",
+    "version": "0.0.2-alpha.0",
     "main": "index.js",
     "license": "MIT",
     "gitHead": "b054dbf4bbd93dbc8c19d7f6624d04038227f8db"
