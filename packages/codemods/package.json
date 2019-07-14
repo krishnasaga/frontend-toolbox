@@ -1,0 +1,26 @@
+{
+  "name": "codemods",
+  "version": "0.0.3",
+  "description": "> TODO: description",
+  "author": "krishnasagarrayudu <krishnasagar.r@sonata-software.com>",
+  "homepage": "https://github.com/solo474/frontend-toolbox#readme",
+  "license": "ISC",
+  "main": "lib/codemods.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/solo474/frontend-toolbox.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/solo474/frontend-toolbox/issues"
+  }
+}
